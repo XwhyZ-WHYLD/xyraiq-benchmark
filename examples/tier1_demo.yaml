@@ -1,0 +1,19 @@
+# 10-turn basic stress-test (Tier-1)
+meta:
+  tier: 1
+  language: en
+  description: >
+    Single-domain factual Q&A about space flight.
+turns:
+  - role: user
+    prompt: "Who was the first human in space?"
+  - role: expected
+    answer: "Yuri Gagarin"
+  - role: user
+    prompt: "What year did he fly?"
+  - role: expected
+    answer: "1961"
+  - role: user
+    prompt: "Name the spacecraft."
+  - role: expected
+    answer: "Vostok 1"
