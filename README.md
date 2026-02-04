@@ -1,3 +1,5 @@
+![Stress Signature badge](https://img.shields.io/badge/Stress--Signature-silver-75%2F100-informational)
+
 # Xyraiq™ – Cognitive Resilience Benchmark for LLMs
 
 > **Stress‑test any language model for memory, logic, ethics, and spiritual reasoning – get a cryptographically signed ****Stress Signature™**** in under 5 minutes.**
