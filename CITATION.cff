@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Xyraiq Benchmark"
+version: 0.1.0
+message: "If you use Xyraiq in academic work, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: N.
+    given-names: George
+identifiers:
+  - type: url
+    value: https://github.com/XwhyZ-WHYLD/xyraiq-benchmark
+date-released: 2026-02-04
+repository-code: https://github.com/XwhyZ-WHYLD/xyraiq-benchmark
+license: Apache-2.0
+keywords:
+  - LLM
+  - benchmark
+  - robustness
+  - hallucination
+  - spiritual-AI
